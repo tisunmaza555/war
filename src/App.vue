@@ -1,17 +1,17 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img alt="Vue logo" src="./assets/anabell.jpg">
+    <infinity msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import infinity from './components/infinity.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    infinity
   }
 }
 </script>

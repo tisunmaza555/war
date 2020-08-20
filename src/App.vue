@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/anabell.jpg">
+    <img alt="Vue logo" src="./assets/game.jpg">
     <infinity msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
